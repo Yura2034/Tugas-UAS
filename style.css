@@ -1,0 +1,52 @@
+.jumbotron {
+	background-image: url(img/img_1.jpg);
+	background-size: cover;
+	height: 400px;
+}
+
+.jumbotron .display-4{
+	color: white;
+	margin-top: 70px;
+}
+.jumbotron p{
+	color: white;
+	font-size: 25px;
+	margin-top: 10px;
+}
+.p2{
+
+    font-size: 36px;
+    font-weight: 200px;
+}
+.img_2{
+	display: block;
+    margin: auto;
+    width: 50%;
+    padding-top: 2%;
+    padding-bottom:2%;
+}
+.main-font{
+    font-size: 12pt;
+    word-spacing: 2px;
+   
+}
+.sub-judul1{
+	font-size: 33px;
+	text-align: center;
+	text-transform: none;
+	padding-top: 10%;
+}
+.overland{
+	font-size: 18px;
+	text-align: center;
+	text-transform: none;
+	padding-top:auto;
+	margin-top: none;
+}
+.row{
+	padding-top: 3%;
+}
+.warna-bg{
+	background-color: #1e90ff;
+	margin-top: 2%;
+}
